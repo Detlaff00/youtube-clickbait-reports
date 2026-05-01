@@ -38,16 +38,8 @@ youtube-reports --files examples/stats1.csv examples/stats2.csv --report clickba
 
 Скриншот запуска:
 
-<!--
-Чтобы добавить скриншот и не хранить файл картинки в репозитории:
-1. Открой README.md на GitHub через Edit.
-2. Перетащи скриншот в это место.
-3. GitHub сам вставит ссылку вида:
-   ![Пример запуска](https://github.com/user-attachments/assets/...)
-4. Замени строку ниже на ссылку, которую вставит GitHub.
--->
+<img width="1043" height="351" alt="Снимок экрана 2026-05-01 в 14 11 37" src="https://github.com/user-attachments/assets/045e1da6-6f96-41c4-9a04-3112c62efc36" />
 
-![Пример запуска](https://github.com/user-attachments/assets/PASTE_SCREENSHOT_URL_HERE)
 
 ## Тесты
 
